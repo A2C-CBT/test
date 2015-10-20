@@ -1,2 +1,2 @@
 # test
-test repository for poor researcher
+test repository for a poor researcher
